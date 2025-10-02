@@ -45,7 +45,7 @@ export function HeroSection() {
       </div>
       <div className='flex items-center justify-center'>
         <Image
-          src='/screenshots/1.png'
+          src='SenHub-Landing-Page/screenshots/1.png'
           width={600}
           height={800}
           alt='Description'

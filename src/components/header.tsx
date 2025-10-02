@@ -26,7 +26,7 @@ export function Header() {
         <div className='flex items-center space-x-8'>
           <div className='flex items-center space-x-2'>
             <div className='w-8 h-8 rounded-lg flex items-center justify-center overflow-hidden'>
-              <Image src='/logo.png' alt='Logo' width={32} height={32} />
+              <Image src='/SenHub-Landing-Page/logo.png' alt='Logo' width={32} height={32} />
             </div>
             <span className='font-semibold text-lg'>{APP_NAME}</span>
           </div>
